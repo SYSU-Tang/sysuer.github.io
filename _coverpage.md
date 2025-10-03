@@ -9,4 +9,4 @@
 - Multiple functions
 
 [GitHub](https://github.com/SYSU-Tang/sysuer)
-[Get Started](#docsify)
+[Get Started](#Headline)

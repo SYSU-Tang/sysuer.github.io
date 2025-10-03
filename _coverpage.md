@@ -1,12 +1,12 @@
 ![logo](_src/logo.png)
 
-# docsify <small>3.5</small>
+# docsify <small>1.0.1</small>
 
 > A magical documentation site generator.
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Neat Appearnce
+- Multiple functions
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/SYSU-Tang/sysuer)
 [Get Started](#docsify)

@@ -1,6 +1,6 @@
 ![logo](_src/logo.png)
 
-# docsify <small>1.0.1</small>
+# SYSUER <small>1.0.1</small>
 
 > A magical documentation site generator.
 

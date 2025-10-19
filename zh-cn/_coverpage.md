@@ -10,4 +10,4 @@
 
 [项目](https://github.com/SYSU-Tang/sysuer)
 [开始](/zh-cn/agreement/用户协议.md)
-[下载](app-release-v1.0.1.apk)
+[下载](../app-release-v1.0.1.apk)
